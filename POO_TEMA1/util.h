@@ -9,7 +9,9 @@
 
 class util {
 public:
-    static char* format(char *a);
+    static char* format(char *a);//am adaugat o functie care formateaza sirul, deoarece chiar daca verificam
+                                 // ca sirul sa nu aiba spatii la inceput sau sfarist sau litere mari, la afisare
+                                 // il afisa tot "gresit".
 };
 
 
