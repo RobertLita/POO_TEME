@@ -16,3 +16,5 @@ Suplimentar exista bauturi:
 Interactiunea cu chelnerul se desfasoara sub forma unui dialog in care aceasta afla progresiv dorintele clientului (e.g. De baut va aduc ceva? Da. Vin, bere sau apa? Vin. La pahar sau la sticla? La pahar. Cati ml? 200ml. Multumesc; doriti ciorba? Da. De care? De legume. Cu sau fara smantana? Cu. Cu sau fara Ardei? Fara. Fel principal doriti? Nu. Desert doriti? Da. Inghetata sau tort kranz? Inghetata. Cate cupe? 4).
 Chelnerul intreaba pe rand fiecare persoana de la masa ce doreste.
 Chelnerul poate fi chemat de un client la o masa si poate sa i se ceara Nota individuala sau nota colectiva (a tuturor clientilor ramasi la masa).
+
+#### Tema 2: Mostenire (Masina + Shape)
