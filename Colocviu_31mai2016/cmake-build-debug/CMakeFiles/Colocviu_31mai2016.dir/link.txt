@@ -1,0 +1,3 @@
+"D:\CLion\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Colocviu_31mai2016.dir/objects.a
+D:\MinGW\mingw64\bin\ar.exe cr CMakeFiles\Colocviu_31mai2016.dir/objects.a @CMakeFiles\Colocviu_31mai2016.dir\objects1.rsp
+D:\MinGW\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\Colocviu_31mai2016.dir/objects.a -Wl,--no-whole-archive -o Colocviu_31mai2016.exe -Wl,--out-implib,libColocviu_31mai2016.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Colocviu_31mai2016.dir\linklibs.rsp
